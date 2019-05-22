@@ -8,7 +8,7 @@ export const VisibilityFilters = {
   SHOW_ACTIVE: "SHOW_ACTIVE"
 };
 
-// *** ACTION CREATORS ***
+// ACTION CREATORS
 
 export function addTodo(text) {
   return {
